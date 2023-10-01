@@ -1,2 +1,2 @@
-# Web-devlopment_project
+#Netflix_project
 it is my web devlopment project 
